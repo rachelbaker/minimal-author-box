@@ -1,0 +1,29 @@
+
+  #author-bio-box {
+    border: 1px solid #bbb;
+    background: #eee;
+    padding: 5px;
+  }
+
+  #author-bio-box img {
+    float: left;
+    margin-right: 10px;
+    height: 100px;
+    width: 100px;
+    border: 2px solid #FFF;
+  }
+
+  #author-bio-box h5{
+    font-weight: bold;
+    margin: 0px;
+    font-size: 18px;
+    font-color: #515151;
+  }
+
+  #author-bio-box p {
+    font-size: 14px;
+    line-height: 22px;
+    font-style: normal;
+  }
+
+  .spacer { display: block; clear: both; }
